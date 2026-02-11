@@ -103,7 +103,7 @@ const Contact = () => {
                             <FaLinkedinIn className="text-white w-6 h-6" />
                         </a>
                         <a
-                            href="https://www.instagram.com/_abhi.j.ith._?igsh=a2FnbnU4NjdzNDYy"
+                            href="https://www.instagram.com/_pavan_._raj_?igsh=MWh1MnU3cWFnZ2VoOQ=="
                             target="_blank"
                             rel="noopener noreferrer"
                             className="w-14 h-14 bg-blue-950/60 rounded-full flex items-center justify-center cursor-pointer hover:bg-pink-500 transition-all duration-300"

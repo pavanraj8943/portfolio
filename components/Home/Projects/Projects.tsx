@@ -25,28 +25,28 @@ const Projects = () => {
             src: "/images/project1.png",
             title: "Double Barrel",
             subtitle: "E-Commerce, App",
-            github: "https://github.com/abhijithpr08/double-barrel.git",
+            github: "https://github.com/pavanraj8943/double-barrel.git",
         },
         {
             id: 2,
             src: "/images/project2.png",
             title: "agency.ai",
             subtitle: "Apps, UI",
-            github: "https://github.com/abhijithpr08/agency.ai.git",
+            github: "https://github.com/pavanraj8943/agency.ai.git",
         },
         {
             id: 3,
             src: "/images/project3.png",
             title: "Student Management",
             subtitle: "Web, Design",
-            github: "https://github.com/abhijithpr08/studentManagement.git",
+            github: "https://github.com/pavanraj8943/Student-Manageme.git",
         },
         {
             id: 4,
             src: "/images/project4.png",
             title: "Weather App",
             subtitle: "App, UI",
-            github: "https://github.com/abhijithpr08/WeatherApp.git",
+            github: "https://github.com/pavanraj8943/Weather.git",
         },
     ];
 
